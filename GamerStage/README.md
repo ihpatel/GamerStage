@@ -1,4 +1,4 @@
-# CS-18000 Project5
+# GamerStage
 
 ### Commands
 
